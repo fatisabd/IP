@@ -2,4 +2,5 @@ Hello how are you.
 Fine and you. 
 good for you. 
 stop talking.
+<<<<<<< HEAD
 This is a local change.
